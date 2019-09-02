@@ -2,7 +2,7 @@
 
 To download the dataset that was introduced in [1], visit the following link (336MB):
 
-somelink
+https://zenodo.org/record/3383660
 
 The dataset contains the following files:
 
