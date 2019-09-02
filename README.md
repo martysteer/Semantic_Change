@@ -1,6 +1,6 @@
 # Mining the UK Web Archive for Semantic Change Detection (Dataset)
 
-To download the dataset that was introduced in [1], visit the following link (336MB):
+To download the dataset that was introduced in [1], visit the following link (~330MB):
 
 https://zenodo.org/record/3383660
 
