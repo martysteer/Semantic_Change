@@ -1,0 +1,13 @@
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2000_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2001_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2002_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2003_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2004_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2005_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2006_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2007_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2008_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2009_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2010_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2011_semchange-1.0.2.tar.gz
+https://github.com/martysteer/Semantic_Change/releases/download/1.0.2/en_ukwa_2012_semchange-1.0.2.tar.gz
